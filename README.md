@@ -1,4 +1,4 @@
-## 🔢 Guess-Number-Game
+# 🔢 Guess-Number-Game
 
 Guess the Number" is a fun and interactive number guessing game built using vanilla JavaScript, HTML, and CSS. The user tries to guess a randomly generated number between 1 and 20. The game provides feedback on each guess and tracks the highest score achieved during the session
  
