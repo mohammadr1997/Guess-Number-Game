@@ -22,10 +22,10 @@ Guess the Number" is a fun and interactive number guessing game built using vani
     ☑️The highest score is preserved during the session.
 
 ### 📂 Project Structure
+![Gameplay Structure](image/guess-number-game.png)
 
-
-
-### 📸 Image
+### 📸 Image 
+![Gameplay Structure](image/guess-number-shot.png)
 
 ### 🛠️ Technologies Used
 * HTML5
