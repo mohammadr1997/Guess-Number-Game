@@ -4,7 +4,7 @@ Guess the Number" is a fun and interactive number guessing game built using vani
  
 ### 🔗[Live Demo](https://guess-number-game-fawn.vercel.app/)
 
-### 🚀 Features
+## 🚀 Features
 * ✅ Random number generation between 1 and 20
 * ✅ Real-time feedback for too high or too low guesses
 * ✅ Dynamic UI updates based on game state
@@ -12,7 +12,7 @@ Guess the Number" is a fun and interactive number guessing game built using vani
 * ✅ Game reset functionality
 * ✅ Simple and responsive user interface
 
-### 🧠 How It Works
+## 🧠 How It Works
 * A random number is generated when the page loads or when the user clicks the "Again!" button
 * The user enters a guess and clicks the "Check!" button
 * Feedback is shown based on the guess:
@@ -23,18 +23,18 @@ Guess the Number" is a fun and interactive number guessing game built using vani
     ☑️If the score reaches 0, the user loses the game.
     ☑️The highest score is preserved during the session.
 
-### 📂 Project Structure
+## 📂 Project Structure
 ![Gameplay Structure](image/guess-number-game.png)
 
-### 📸 Image 
+## 📸 Image 
 ![Gameplay Structure](image/guess-number-shot.png)
 
-### 🛠️ Technologies Used
+## 🛠️ Technologies Used
 * HTML5
 * CSS3
 * JavaScript (ES6)
 
-### 🔄  Reset Functionality
+## 🔄  Reset Functionality
 Clicking the "Again!" button will:
 
 ☑️ Reset the score to 20
